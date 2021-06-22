@@ -1,6 +1,11 @@
 #!/usr/bin/env sh
+<<<<<<< HEAD
 
 # 111222
+=======
+# branch1 77788
+#
+>>>>>>> refs/remotes/TST/master
 # Copyright 2015 the original author or authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
