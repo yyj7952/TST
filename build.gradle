@@ -18,7 +18,7 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
-//test1 intelij
+//test1 intelij 222
 test {
 	useJUnitPlatform()
 }
