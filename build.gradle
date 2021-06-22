@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-//master  aaa bbb
-=======
->>>>>>> refs/remotes/TST/master
+//aaaa
 plugins {
 	id 'org.springframework.boot' version '2.5.1'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
@@ -21,7 +18,7 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
-test1
+//test1
 test {
 	useJUnitPlatform()
 }
